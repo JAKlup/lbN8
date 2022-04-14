@@ -1,0 +1,6 @@
+C:\Users\JOKlup.DESKTOP-NDKP1MJ\source\repos\lbN8\lbN8\text.txt
+text.txt
+14.04.2022 17:13:41
+2312 байт
+Всего строк: System.String[]
+Всего слов: 194
